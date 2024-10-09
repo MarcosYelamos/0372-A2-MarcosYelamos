@@ -2,7 +2,7 @@
 
 1. ¿Qué es una página web?
 
-__Una página web es un documento digital que se puede visualizar a través de un navegador de internet (como Google Chrome, Firefox o Safari) utilizando una dirección web o URL. Las páginas web son la unidad básica de la World Wide Web (WWW) y suelen estar formadas por texto, imágenes, videos, enlaces y otros elementos interactivos.__
+    __Una página web es un documento digital que se puede visualizar a través de un navegador de internet (como Google Chrome, Firefox o Safari) utilizando una dirección web o URL. Las páginas web son la unidad básica de la World Wide Web (WWW) y suelen estar formadas por texto, imágenes, videos, enlaces y otros elementos interactivos.__
 
 
 
