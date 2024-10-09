@@ -52,7 +52,7 @@ __*Figura 1: Estructura de código HTML*__
 
 ![Figura 2: Esquema de peticiones HTML](./img/img1.png "Figura 2: Esquema de peticiones HTML")
 
-_Figura 2: Esquema de peticiones HTML_
+__*Figura 2: Esquema de peticiones HTML*__
 
 
 
