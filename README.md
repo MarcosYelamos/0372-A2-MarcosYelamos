@@ -22,7 +22,7 @@
 |...|...|
 
 
-4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
+4. ¿Qué es ```HTML``` ? ¿Sabes cómo se estructura?
 
     __HTML (HyperText Markup Language) es un lenguaje de marcas utilizado para crear la estructura y el contenido de las páginas web. Prinicpalmentes e estructura en un head y un body.__
 ```
@@ -42,7 +42,7 @@
 __*Figura 1: Estructura de código HTML*__
 
 
-5. ¿Qué es CSS?
+5. ¿Qué es ```CSS```?
 
     __CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la presentación y el diseño visual de una página web__
 
